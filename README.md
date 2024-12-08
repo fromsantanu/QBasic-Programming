@@ -1,12 +1,12 @@
 # QBasic-Programming for Class VI - VIII Standard
 
-#### **Module 1: Introduction to Quick Basic**
+#### **Module 1: Introduction to QBasic**
 1. **What is Quick Basic?**
-   - [Overview of Quick Basic](#)
+   - [Overview of QBasic](#)
    - [Importance of programming for beginners](#)
 2. **Setting up the Environment**
-   - [Installing Quick Basic on your computer](#)
-   - [Understanding the Quick Basic interface](#)
+   - [Installing QBasic on your computer](#)
+   - [Understanding the QBasic interface](#)
 
 #### **Module 2: Programming Basics**
 3. **Understanding Variables and Constants**
