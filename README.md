@@ -34,32 +34,32 @@
 
 #### **Module 4: String Handling**
 9. **Introduction to Strings**
-   - [What is a string?](#)
-   - [Declaring and using string variables](#)
+   - [What is a string?](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040101.md)
+   - [Declaring and using string variables](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040102.md)
 10. **String Operations**
-    - [Concatenation and slicing strings](#)
-    - [Finding the length of a string (`LEN` function)](#)
-    - [Extracting substrings (`MID$`, `LEFT$`, `RIGHT$`)](#)
+    - [Concatenation and slicing strings](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040201.md)
+    - [Finding the length of a string (`LEN` function)](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040202.md)
+    - [Extracting substrings (`MID$`, `LEFT$`, `RIGHT$`)](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040203.md)
 11. **String Manipulation**
-    - [Converting to uppercase/lowercase (`UCASE$`, `LCASE$`)](#)
-    - [Searching within strings (`INSTR` function)](#)
+    - [Converting to uppercase/lowercase (`UCASE$`, `LCASE$`)](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040301.md)
+    - [Searching within strings (`INSTR` function)](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040302.md)
     - [Replacing parts of a string](#)
 
 #### **Module 5: Working with Arrays**
 12. **Introduction to Arrays**
-    - [What is an array?](#)
-    - [Declaring and accessing arrays](#)
+    - [What is an array?](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch050101.md)
+    - [Declaring and accessing arrays](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch050102.md)
 13. **Using Arrays in Programs**
-    - [Storing multiple values](#)
-    - [Simple array operations](#)
+    - [Storing multiple values](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch050201.md)
+    - [Simple array operations](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch050202.md)
 
 #### **Module 6: Subroutines and Functions**
 14. **Using Subroutines**
-    - [What are subroutines?](#)
-    - [Writing and calling subroutines](#)
+    - [What are subroutines?](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch060101.md)
+    - [Writing and calling subroutines](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch060102.md)
 15. **Introduction to Functions**
-    - [Built-in functions in Quick Basic](#)
-    - [Writing your own functions](#)
+    - [Built-in functions in Quick Basic](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch060201.md)
+    - [Writing your own functions](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch060202.md)
 
 #### **Module 7: Graphics in Quick Basic**
 16. **Basic Graphics Commands**
