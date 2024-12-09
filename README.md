@@ -43,7 +43,7 @@
 11. **String Manipulation**
     - [Converting to uppercase/lowercase (`UCASE$`, `LCASE$`)](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040301.md)
     - [Searching within strings (`INSTR` function)](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040302.md)
-    - [Replacing parts of a string](#)
+    - [Replacing parts of a string](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch040303.md)
 
 #### **Module 5: Working with Arrays**
 12. **Introduction to Arrays**
