@@ -63,38 +63,24 @@
 
 #### **Module 7: File Handling**
 16. **Reading and Writing Files**
-    - [Opening, reading, and writing text files](#)
-    - [Storing data in files](#)
+    - [Opening, reading, and writing text files](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch070101.md)
+    - [Storing data in files](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch070102.md)
 17. **Simple Applications Using Files**
-    - [Creating a small student record system](#)
+    - [Creating a small student record system](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch070201.md)
 
 #### **Module 8: Graphics in Quick Basic**
 18. **Basic Graphics Commands**
-    - [Introduction to `PSET`, `LINE`, and `CIRCLE`](#)
-    - [Drawing shapes and patterns](#)
+    - [Introduction to `PSET`, `LINE`, and `CIRCLE`](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch080101.md)
+    - [Drawing shapes and patterns](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch080102.md)
 19. **Creating Interactive Graphics**
-    - [Simple animations](#)
-    - [Responding to user inputs for graphics](#)
+    - [Simple animations](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch080201.md)
+    - [Responding to user inputs for graphics](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch080202.md)
 
 #### **Module 9: Building Simple Projects**
 20. **Small Programming Challenges**
-    - [Creating a calculator](#)
-    - [Building a number guessing game](#)
+    - [Creating a calculator](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch090101.md)
+    - [Building a number guessing game](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch090102.md)
 21. **Project Showcase**
-    - [Students design and present a simple project combining concepts learned.](#)
+    - [Students design and present a simple project combining concepts learned.](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch090201.md)
 
-#### **Module 10: Debugging and Best Practices**
-22. **Debugging Programs**
-    - [Common errors and how to fix them](#)
-    - [Using error messages to improve code](#)
-23. **Writing Clean Code**
-    - [Commenting and organizing code](#)
-    - [Importance of good variable names](#)
-
-#### **Bonus Module: Fun with Quick Basic**
-24. **Writing Small Games**
-    - [Simple text-based games like Tic-Tac-Toe](#)
-    - [Adding basic graphics to games](#)
-25. **Exploring Beyond**
-    - [Introducing other programming languages for the future](#)
 
