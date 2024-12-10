@@ -61,14 +61,14 @@
     - [Built-in functions in Quick Basic](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch060201.md)
     - [Writing your own functions](https://github.com/fromsantanu/QBasic-Programming/blob/main/pages/ch060202.md)
 
-#### **Module 8: File Handling**
+#### **Module 7: File Handling**
 16. **Reading and Writing Files**
     - [Opening, reading, and writing text files](#)
     - [Storing data in files](#)
 17. **Simple Applications Using Files**
     - [Creating a small student record system](#)
 
-#### **Module 7: Graphics in Quick Basic**
+#### **Module 8: Graphics in Quick Basic**
 18. **Basic Graphics Commands**
     - [Introduction to `PSET`, `LINE`, and `CIRCLE`](#)
     - [Drawing shapes and patterns](#)
